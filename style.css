@@ -191,3 +191,11 @@ section ul,
 section ol {
     margin: 1rem 0;
 }
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
