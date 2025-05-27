@@ -199,3 +199,6 @@ strong {
 em {
     font-style: italic;
 }
+figcaption {
+    text-align: center;
+}
